@@ -1,0 +1,14 @@
+# Dependencies
+node_modules/
+
+# Logs
+logs/
+*.log
+
+# Build files
+dist/
+build/
+
+# Temporary files
+*.tmp
+.DS_Store
